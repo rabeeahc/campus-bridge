@@ -17,7 +17,7 @@ function Hero() {
 
           <p className="mx-auto mt-8 max-w-2xl text-xl leading-9 text-slate-600">
             From visas and accommodation to banking, transport,
-            food and university life۔ Campus Bridge helps you
+            food and university life. Campus Bridge helps you
             settle in with confidence.
           </p>
 
